@@ -64,4 +64,4 @@ Interactive app allows users to:
 
 ---
 
-## ✨ Built with love for Anime, Machine Learning, and Personalization!  
+**Built with love for Anime, Machine Learning, and Personalization!**
